@@ -8,8 +8,10 @@
 .section1 {
     background-color: black;
     color: rgb(156, 18, 18);
+    padding: 100px;
 }
 
 .section2 {
     background-color: rgb(153, 11, 11);
+    padding: 100px;
 }
